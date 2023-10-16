@@ -853,6 +853,7 @@ version = "0.1.0"
 dependencies = [
  "actix-web",
  "prometheus-client",
+ "serde",
 ]
 
 [[package]]

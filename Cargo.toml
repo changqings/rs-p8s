@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 actix-web = "4.4.0"
 prometheus-client = "0.21.2"
+serde = { version = "1.0.189", features = ["serde_derive"] }
